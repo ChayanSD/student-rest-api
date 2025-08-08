@@ -31,5 +31,5 @@ go.sum
 # .idea/
 # .vscode/
 
-storage
+/storage
 /config
